@@ -1,0 +1,1 @@
+# sqlite3-ile-veri-ekleme-silme-cikarma-ve-guncelleme
